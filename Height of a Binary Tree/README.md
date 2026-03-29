@@ -1,3 +1,0 @@
-![Height of a Binary Tree image 1](C:\Users\newuser123\Downloads\ilovepdf_pages-to-jpg\tree-height-of-a-binary-tree-English_page-0001.jpg)
-
-![Height of a Binary Tree image 2](C:\Users\newuser123\Downloads\ilovepdf_pages-to-jpg\tree-height-of-a-binary-tree-English_page-0002.jpg)
