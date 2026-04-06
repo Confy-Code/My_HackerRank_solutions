@@ -52,4 +52,4 @@ Once the halves are returned, they are compared one-by-one:
    ```bash
    git clone [https://github.com/Confy-Code/My_HacherRank_solutions.git]
 
-   or just copy-paste and run the python script in your favorite IDE.
+or just copy-paste and run the python script in your favorite IDE.
